@@ -1,0 +1,19 @@
+lib: [
+  "_build/install/default/lib/a/META" {"META"}
+  "_build/install/default/lib/a/a.a" {"a.a"}
+  "_build/install/default/lib/a/a.cma" {"a.cma"}
+  "_build/install/default/lib/a/a.cmi" {"a.cmi"}
+  "_build/install/default/lib/a/a.cmt" {"a.cmt"}
+  "_build/install/default/lib/a/a.cmx" {"a.cmx"}
+  "_build/install/default/lib/a/a.cmxa" {"a.cmxa"}
+  "_build/install/default/lib/a/a.cmxs" {"a.cmxs"}
+  "_build/install/default/lib/a/a.dune" {"a.dune"}
+  "_build/install/default/lib/a/a.ml" {"a.ml"}
+  "_build/install/default/lib/a/a__M.cmi" {"a__M.cmi"}
+  "_build/install/default/lib/a/a__M.cmt" {"a__M.cmt"}
+  "_build/install/default/lib/a/a__M.cmti" {"a__M.cmti"}
+  "_build/install/default/lib/a/a__M.cmx" {"a__M.cmx"}
+  "_build/install/default/lib/a/m.ml" {"m.ml"}
+  "_build/install/default/lib/a/m.mli" {"m.mli"}
+  "_build/install/default/lib/a/opam" {"opam"}
+]

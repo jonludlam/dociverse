@@ -1,0 +1,6 @@
+EXCLUDE_QUERY_DIR
+B ../../../_build/default/packages/a/v1.0/.a.objs
+B ../../../_build/default/packages/b/v1.0/.b.eobjs
+S ../../a/v1.0
+S .
+FLG -w @a-4-29-40-41-42-44-45-48-58-59-60-40 -strict-sequence -strict-formats -short-paths -keep-locs

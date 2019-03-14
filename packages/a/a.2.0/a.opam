@@ -1,0 +1,10 @@
+opam-version: "2.0"
+name: "a"
+version: "2.0"
+maintainer: "jon@recoil.org"
+authors: ["Jon"]
+homepage: "https://github.com/jonludlam/a"
+bug-reports: "/dev/null"
+dev-repo: "git:///dev/null"
+synopsis: "Package a"
+
